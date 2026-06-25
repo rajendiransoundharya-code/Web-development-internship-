@@ -1,0 +1,13 @@
+Task: Create Responsive Forms
+
+Objective:
+Create forms that adapt to different screen sizes.
+
+Description:
+Designed responsive forms with proper alignment, spacing, and mobile-friendly layouts.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned responsive form design and usability principles.
