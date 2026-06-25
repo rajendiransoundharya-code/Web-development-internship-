@@ -1,0 +1,13 @@
+Task: Contact Form
+
+Objective:
+Create a contact page with form fields.
+
+Description:
+Designed a contact form allowing users to submit inquiries and feedback.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned form creation and communication interface design.
