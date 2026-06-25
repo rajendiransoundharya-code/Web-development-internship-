@@ -1,0 +1,13 @@
+Task: OTP Verification Page
+
+Objective:
+Create an OTP verification interface.
+
+Description:
+Designed a page that allows users to enter a One-Time Password for verification.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned user verification and authentication concepts.
