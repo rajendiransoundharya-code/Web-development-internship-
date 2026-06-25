@@ -1,0 +1,13 @@
+Task: Create REST API
+
+Objective:
+Build REST API endpoints for data communication.
+
+Description:
+Designed API endpoints to perform Create, Read, Update, and Delete operations.
+
+Technologies Used:
+Flask REST API
+
+Outcome:
+Learned API development and client-server communication.
