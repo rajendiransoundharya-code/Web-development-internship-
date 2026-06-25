@@ -1,0 +1,13 @@
+Task: Login Page UI
+
+Objective:
+Design a login page with username and password fields.
+
+Description:
+Created a user login interface that allows users to enter their credentials securely and access the application.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned form creation, input fields, and user interface design principles.
