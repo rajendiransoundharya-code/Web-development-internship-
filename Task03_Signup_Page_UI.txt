@@ -1,0 +1,13 @@
+Task: Signup Page UI
+
+Objective:
+Create a user registration page.
+
+Description:
+Designed a signup form that collects user information such as name, email, and password for account creation.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned user registration form design and data collection techniques.
