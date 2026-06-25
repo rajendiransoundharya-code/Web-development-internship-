@@ -1,0 +1,13 @@
+Task: Error Handling
+
+Objective:
+Handle application errors effectively.
+
+Description:
+Implemented exception handling and user-friendly error messages for application stability.
+
+Technologies Used:
+Python
+
+Outcome:
+Improved debugging and application reliability skills.
