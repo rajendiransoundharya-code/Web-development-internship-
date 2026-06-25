@@ -1,0 +1,13 @@
+Task: Build Checkout Page
+
+Objective:
+Design a checkout interface.
+
+Description:
+Created a checkout page with customer details, shipping address, and order summary sections.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned order processing and checkout workflow design.
