@@ -1,0 +1,13 @@
+Task: Develop Django Project
+
+Objective:
+Create a web application using Django.
+
+Description:
+Explored Django project structure, URL routing, templates, and application development.
+
+Technologies Used:
+Python, Django
+
+Outcome:
+Learned Django framework and MVT architecture.
