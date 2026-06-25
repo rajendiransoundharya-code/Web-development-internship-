@@ -1,0 +1,13 @@
+Task: Session Management
+
+Objective:
+Manage user sessions within applications.
+
+Description:
+Implemented session handling techniques to maintain user login status and preferences.
+
+Technologies Used:
+Flask/Django
+
+Outcome:
+Learned session tracking and user management concepts.
