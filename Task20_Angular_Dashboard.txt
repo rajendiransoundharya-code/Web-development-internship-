@@ -1,0 +1,13 @@
+Task: Create Angular Dashboard
+
+Objective:
+Design a dashboard using Angular concepts.
+
+Description:
+Created a dashboard layout with navigation menus, cards, charts, and data sections.
+
+Technologies Used:
+Angular
+
+Outcome:
+Learned Angular dashboard structure and UI organization.
