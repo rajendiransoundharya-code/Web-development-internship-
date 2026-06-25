@@ -1,0 +1,13 @@
+Task: Implement Dark Mode Feature
+
+Objective:
+Implement dark mode for better user experience.
+
+Description:
+Designed a dark theme interface to improve readability and reduce eye strain in low-light environments.
+
+Technologies Used:
+HTML, CSS, JavaScript
+
+Outcome:
+Learned theme customization and UI enhancement techniques.
