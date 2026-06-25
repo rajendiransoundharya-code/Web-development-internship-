@@ -1,0 +1,13 @@
+Task: Create React.js Application
+
+Objective:
+Learn React.js application development.
+
+Description:
+Studied React components, JSX, props, state management, and reusable UI development.
+
+Technologies Used:
+React.js
+
+Outcome:
+Learned component-based frontend development.
