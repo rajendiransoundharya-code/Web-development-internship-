@@ -1,0 +1,13 @@
+Task: Develop Payment Integration Frontend
+
+Objective:
+Create a payment gateway user interface.
+
+Description:
+Designed payment forms supporting card payments, UPI payments, and net banking options.
+
+Technologies Used:
+HTML, CSS, JavaScript
+
+Outcome:
+Learned payment interface design and transaction flow concepts.
