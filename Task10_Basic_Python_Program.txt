@@ -1,0 +1,13 @@
+Task: Basic Python Program
+
+Objective:
+Write and execute a simple Python program.
+
+Description:
+Developed basic Python scripts to understand syntax and program execution.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned Python programming fundamentals.
