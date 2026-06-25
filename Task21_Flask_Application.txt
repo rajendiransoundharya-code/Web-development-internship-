@@ -1,0 +1,13 @@
+Task: Create Flask Application
+
+Objective:
+Develop a basic web application using Flask.
+
+Description:
+Learned Flask framework setup, routing, and template rendering for web development.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Understood backend web application development fundamentals.
