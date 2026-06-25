@@ -1,0 +1,13 @@
+Task: Dashboard UI
+
+Objective:
+Create a dashboard interface.
+
+Description:
+Designed a dashboard layout displaying user information and statistics.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned dashboard design techniques.
