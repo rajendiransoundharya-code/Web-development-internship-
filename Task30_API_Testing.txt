@@ -1,0 +1,13 @@
+Task: API Testing
+
+Objective:
+Test API endpoints and responses.
+
+Description:
+Verified API functionality, response codes, and data accuracy using testing tools.
+
+Technologies Used:
+Postman, REST API
+
+Outcome:
+Learned API testing and debugging techniques.
