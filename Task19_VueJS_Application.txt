@@ -1,0 +1,13 @@
+Task: Develop Vue.js Application
+
+Objective:
+Explore Vue.js fundamentals.
+
+Description:
+Learned Vue.js concepts including data binding, directives, and component-based architecture.
+
+Technologies Used:
+Vue.js
+
+Outcome:
+Understood reactive user interface development.
