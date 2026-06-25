@@ -1,0 +1,13 @@
+Task: Navigation Bar
+
+Objective:
+Design a responsive navigation menu.
+
+Description:
+Created a navigation bar with links to different sections of a website.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned navigation structure and responsive design.
