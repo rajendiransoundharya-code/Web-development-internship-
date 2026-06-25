@@ -1,0 +1,13 @@
+Task: Create Shopping Cart Functionality
+
+Objective:
+Implement shopping cart features.
+
+Description:
+Designed a cart system that allows users to add, remove, and update product quantities.
+
+Technologies Used:
+JavaScript
+
+Outcome:
+Learned shopping cart management concepts.
