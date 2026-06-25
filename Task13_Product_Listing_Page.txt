@@ -1,0 +1,13 @@
+Task: Build Product Listing Page
+
+Objective:
+Display products in an organized layout.
+
+Description:
+Created a product listing page with product images, names, prices, and action buttons.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned product presentation and grid layout design.
