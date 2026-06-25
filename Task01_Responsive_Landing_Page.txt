@@ -1,0 +1,10 @@
+Task: Responsive Landing Page
+
+Objective:
+Create a responsive landing page that adapts to different screen sizes.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned responsive design principles and webpage structure.
