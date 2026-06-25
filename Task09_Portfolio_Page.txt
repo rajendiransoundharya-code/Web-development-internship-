@@ -1,0 +1,13 @@
+Task: Personal Portfolio Page
+
+Objective:
+Create a personal portfolio webpage.
+
+Description:
+Designed a portfolio page showcasing skills, projects, and achievements.
+
+Technologies Used:
+HTML, CSS
+
+Outcome:
+Learned portfolio development techniques.
