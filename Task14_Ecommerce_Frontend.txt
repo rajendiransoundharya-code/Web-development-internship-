@@ -1,0 +1,13 @@
+Task: Develop E-commerce Frontend
+
+Objective:
+Design the frontend of an online shopping website.
+
+Description:
+Created the homepage, navigation bar, product section, and user-friendly shopping interface.
+
+Technologies Used:
+HTML, CSS, JavaScript
+
+Outcome:
+Understood e-commerce website structure and user flow.
