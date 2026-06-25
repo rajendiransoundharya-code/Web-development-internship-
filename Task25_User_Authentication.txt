@@ -1,0 +1,13 @@
+Task: User Authentication System
+
+Objective:
+Implement login and registration functionality.
+
+Description:
+Created authentication workflows including user signup, login, and logout processes.
+
+Technologies Used:
+Python, Flask/Django
+
+Outcome:
+Learned authentication and authorization concepts.
