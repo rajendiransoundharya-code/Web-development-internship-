@@ -1,0 +1,13 @@
+Task: Form Validation
+
+Objective:
+Validate user input before processing.
+
+Description:
+Applied validation techniques to ensure correct and secure user input in forms.
+
+Technologies Used:
+HTML, JavaScript, Python
+
+Outcome:
+Learned data validation and input security practices.
