@@ -1,0 +1,13 @@
+Task: Develop Role-Based Access Control
+
+Objective:
+Manage user permissions based on roles.
+
+Description:
+Created role-based authorization to provide different access levels for users and administrators.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned user authorization and permission management.
