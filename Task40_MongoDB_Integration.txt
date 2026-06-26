@@ -1,0 +1,13 @@
+Task: Develop MongoDB Integration
+
+Objective:
+Integrate MongoDB with an application.
+
+Description:
+Connected a MongoDB database to store and retrieve application data using NoSQL concepts.
+
+Technologies Used:
+MongoDB, Python
+
+Outcome:
+Learned NoSQL database integration and document-based storage.
