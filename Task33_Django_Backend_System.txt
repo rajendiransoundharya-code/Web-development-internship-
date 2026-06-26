@@ -1,0 +1,13 @@
+Task: Create Django Backend System
+
+Objective:
+Develop a backend system using Django.
+
+Description:
+Created a Django project with models, views, and URL routing for web applications.
+
+Technologies Used:
+Python, Django
+
+Outcome:
+Learned Django backend architecture and project structure.
