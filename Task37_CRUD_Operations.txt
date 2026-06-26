@@ -1,0 +1,13 @@
+Task: Develop CRUD Operations
+
+Objective:
+Perform Create, Read, Update, and Delete operations.
+
+Description:
+Implemented CRUD functionality for managing application data efficiently.
+
+Technologies Used:
+Python, Database
+
+Outcome:
+Learned database operations and data management.
