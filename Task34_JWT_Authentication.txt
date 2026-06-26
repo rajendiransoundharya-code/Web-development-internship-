@@ -1,0 +1,13 @@
+Task: Implement JWT Authentication
+
+Objective:
+Implement secure user authentication using JSON Web Tokens.
+
+Description:
+Designed a JWT-based authentication system for secure login and protected API access.
+
+Technologies Used:
+Python, JWT
+
+Outcome:
+Learned token-based authentication techniques.
