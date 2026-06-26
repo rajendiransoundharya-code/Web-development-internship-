@@ -1,0 +1,13 @@
+Task: Create User Management API
+
+Objective:
+Develop APIs for user management.
+
+Description:
+Created API endpoints to add, update, retrieve, and delete user information.
+
+Technologies Used:
+Python, Flask REST API
+
+Outcome:
+Learned user management API development.
