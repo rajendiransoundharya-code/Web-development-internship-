@@ -1,0 +1,13 @@
+Task: Implement Database Connectivity
+
+Objective:
+Connect an application with a database.
+
+Description:
+Established a database connection for storing and retrieving application data.
+
+Technologies Used:
+Python, SQL
+
+Outcome:
+Learned database connectivity and data handling.
