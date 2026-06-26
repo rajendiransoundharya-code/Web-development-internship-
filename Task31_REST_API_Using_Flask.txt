@@ -1,0 +1,13 @@
+Task: Create REST API using Flask
+
+Objective:
+Develop a REST API using the Flask framework.
+
+Description:
+Created a basic REST API with endpoints to handle client requests and return JSON responses.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned how to build RESTful APIs using the Flask framework.
