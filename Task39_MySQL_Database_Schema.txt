@@ -1,0 +1,13 @@
+Task: Create MySQL Database Schema
+
+Objective:
+Design a MySQL database schema.
+
+Description:
+Created database tables, relationships, and constraints for efficient data storage.
+
+Technologies Used:
+MySQL
+
+Outcome:
+Learned database schema design and normalization concepts.
