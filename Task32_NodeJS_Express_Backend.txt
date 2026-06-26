@@ -1,0 +1,13 @@
+Task: Develop Node.js Express Backend
+
+Objective:
+Create a backend application using Node.js and Express.
+
+Description:
+Developed a simple Express server with routes to process HTTP requests.
+
+Technologies Used:
+Node.js, Express.js
+
+Outcome:
+Learned backend server development using Express.
