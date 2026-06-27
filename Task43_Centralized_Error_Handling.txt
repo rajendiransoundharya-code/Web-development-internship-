@@ -1,0 +1,13 @@
+Task: Develop Centralized Error Handling
+
+Objective:
+Handle application errors efficiently.
+
+Description:
+Created a centralized error handling mechanism to capture exceptions and return meaningful error responses.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned structured exception handling and debugging techniques.
