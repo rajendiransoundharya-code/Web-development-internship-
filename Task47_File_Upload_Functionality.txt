@@ -1,0 +1,13 @@
+Task: Implement File Upload Functionality
+
+Objective:
+Allow users to upload files through the application.
+
+Description:
+Developed a secure file upload feature supporting document and image uploads.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned file handling and upload management techniques.
