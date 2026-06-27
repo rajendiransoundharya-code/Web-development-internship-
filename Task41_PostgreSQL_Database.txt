@@ -1,0 +1,13 @@
+Task: Implement PostgreSQL Database
+
+Objective:
+Integrate PostgreSQL database into the application.
+
+Description:
+Configured PostgreSQL as the primary database for storing and managing application data securely.
+
+Technologies Used:
+PostgreSQL, SQL
+
+Outcome:
+Learned PostgreSQL database setup, table creation, and data management.
