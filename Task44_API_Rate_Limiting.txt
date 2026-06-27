@@ -1,0 +1,13 @@
+Task: Implement API Rate Limiting
+
+Objective:
+Control the number of API requests from users.
+
+Description:
+Implemented rate limiting to protect APIs from excessive requests and improve application security.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned API security and request management techniques.
