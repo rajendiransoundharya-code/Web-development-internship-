@@ -1,0 +1,13 @@
+Task: Develop Cloud Storage Integration
+
+Objective:
+Integrate cloud storage services into the application.
+
+Description:
+Connected the application with cloud storage to store and access uploaded files securely.
+
+Technologies Used:
+Python, Cloud Storage
+
+Outcome:
+Learned cloud storage integration and file management.
