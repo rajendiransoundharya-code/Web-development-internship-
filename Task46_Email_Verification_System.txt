@@ -1,0 +1,13 @@
+Task: Develop Email Verification System
+
+Objective:
+Verify user email addresses during registration.
+
+Description:
+Created an email verification workflow using verification links or OTP codes.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned email verification and account activation concepts.
