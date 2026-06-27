@@ -1,0 +1,13 @@
+Task: Create Image Upload Backend
+
+Objective:
+Develop backend support for image uploads.
+
+Description:
+Implemented backend functionality to upload, store, and retrieve image files securely.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned image storage and backend file management.
