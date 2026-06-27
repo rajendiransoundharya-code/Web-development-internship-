@@ -1,0 +1,13 @@
+Task: Create Notification APIs
+
+Objective:
+Develop APIs for sending notifications.
+
+Description:
+Created notification APIs to deliver alerts, messages, and updates to users within the application.
+
+Technologies Used:
+Python, REST API
+
+Outcome:
+Learned notification system development and API integration.
