@@ -1,0 +1,13 @@
+Task: Create API Middleware
+
+Objective:
+Develop middleware for API request processing.
+
+Description:
+Implemented middleware to handle authentication, logging, and request validation before processing API requests.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned middleware implementation and request handling.
