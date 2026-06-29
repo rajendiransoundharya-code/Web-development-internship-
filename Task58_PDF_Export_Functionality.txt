@@ -1,0 +1,13 @@
+Task: Implement PDF Export Functionality
+
+Objective:
+Export application data to PDF format.
+
+Description:
+Developed a feature to generate downloadable PDF reports from application data.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned PDF generation and export functionality.
