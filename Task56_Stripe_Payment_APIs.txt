@@ -1,0 +1,13 @@
+Task: Create Stripe Payment APIs
+
+Objective:
+Implement payment processing using Stripe.
+
+Description:
+Developed Stripe payment APIs for secure online transactions.
+
+Technologies Used:
+Python, Stripe API
+
+Outcome:
+Learned Stripe payment integration.
