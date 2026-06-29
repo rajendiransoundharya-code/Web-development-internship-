@@ -1,0 +1,13 @@
+Task: Develop Invoice Generation System
+
+Objective:
+Generate invoices automatically.
+
+Description:
+Created a system that generates invoices for completed orders and transactions.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned invoice generation and document creation.
