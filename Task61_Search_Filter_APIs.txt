@@ -1,0 +1,13 @@
+Task: Create Search and Filter APIs
+
+Objective:
+Develop APIs for search and filtering.
+
+Description:
+Implemented APIs that allow users to search and filter application data efficiently.
+
+Technologies Used:
+Python, REST API
+
+Outcome:
+Learned advanced search and filtering concepts.
