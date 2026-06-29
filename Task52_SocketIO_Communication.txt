@@ -1,0 +1,13 @@
+Task: Develop Socket.IO Communication
+
+Objective:
+Implement real-time communication using Socket.IO.
+
+Description:
+Integrated Socket.IO to establish live communication between client and server.
+
+Technologies Used:
+Python, Socket.IO
+
+Outcome:
+Learned event-driven communication techniques.
