@@ -1,0 +1,13 @@
+Task: Create Analytics Dashboard APIs
+
+Objective:
+Develop APIs for analytics dashboards.
+
+Description:
+Created APIs to provide statistical and analytical data for dashboard visualization.
+
+Technologies Used:
+Python, REST API
+
+Outcome:
+Learned analytics data processing and API development.
