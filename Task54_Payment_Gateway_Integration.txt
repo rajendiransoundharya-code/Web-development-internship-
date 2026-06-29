@@ -1,0 +1,13 @@
+Task: Implement Payment Gateway Integration
+
+Objective:
+Integrate a payment gateway into the application.
+
+Description:
+Developed backend support for processing secure online payments.
+
+Technologies Used:
+Python, Payment API
+
+Outcome:
+Learned payment gateway integration concepts.
