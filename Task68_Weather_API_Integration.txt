@@ -1,0 +1,13 @@
+Task: Implement Weather API Integration
+
+Objective:
+Display live weather information.
+
+Description:
+Integrated a weather API to provide real-time weather updates.
+
+Technologies Used:
+Python, Weather API
+
+Outcome:
+Learned third-party API integration.
