@@ -1,0 +1,13 @@
+Task: Develop Sorting Functionality
+
+Objective:
+Sort application data effectively.
+
+Description:
+Created sorting features to arrange records in ascending or descending order.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned data sorting techniques.
