@@ -1,0 +1,13 @@
+Task: Create Google Maps Integration
+
+Objective:
+Integrate Google Maps into the application.
+
+Description:
+Embedded Google Maps to display locations and improve user navigation.
+
+Technologies Used:
+Python, Google Maps API
+
+Outcome:
+Learned map integration and location services.
