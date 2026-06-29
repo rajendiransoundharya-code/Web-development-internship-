@@ -1,0 +1,13 @@
+Task: Implement Pagination System
+
+Objective:
+Display large datasets efficiently.
+
+Description:
+Implemented pagination to divide large amounts of data into multiple pages.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned data pagination and performance optimization.
