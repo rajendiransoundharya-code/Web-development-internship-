@@ -1,0 +1,13 @@
+Task: Develop OpenAI Integration
+
+Objective:
+Integrate OpenAI services into the application.
+
+Description:
+Connected the application with OpenAI APIs to enable AI-powered features.
+
+Technologies Used:
+Python, OpenAI API
+
+Outcome:
+Learned AI-powered application development.
