@@ -1,0 +1,13 @@
+Task: Develop QR Code Generator
+
+Objective:
+Generate QR codes dynamically.
+
+Description:
+Created a feature that generates QR codes for application data and URLs.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned QR code generation techniques.
