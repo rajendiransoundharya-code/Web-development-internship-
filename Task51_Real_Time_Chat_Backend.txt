@@ -1,0 +1,13 @@
+Task: Implement Real-Time Chat Backend
+
+Objective:
+Develop a backend for real-time messaging.
+
+Description:
+Created a backend system to enable instant communication between users using real-time technologies.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned real-time communication concepts and backend implementation.
