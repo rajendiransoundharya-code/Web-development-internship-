@@ -1,0 +1,13 @@
+Task: Develop Report Generation APIs
+
+Objective:
+Create APIs for generating reports.
+
+Description:
+Designed APIs that generate and deliver reports in different formats.
+
+Technologies Used:
+Python, REST API
+
+Outcome:
+Learned report automation techniques.
