@@ -1,0 +1,13 @@
+Task: Create Excel Export Module
+
+Objective:
+Export data into Excel format.
+
+Description:
+Implemented an Excel export feature for reports and application records.
+
+Technologies Used:
+Python, Excel
+
+Outcome:
+Learned spreadsheet generation and data export.
