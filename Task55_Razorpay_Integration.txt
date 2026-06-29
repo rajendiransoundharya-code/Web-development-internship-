@@ -1,0 +1,13 @@
+Task: Develop Razorpay Integration
+
+Objective:
+Integrate Razorpay payment services.
+
+Description:
+Configured Razorpay API for secure payment processing within the application.
+
+Technologies Used:
+Python, Razorpay API
+
+Outcome:
+Learned online payment integration techniques.
