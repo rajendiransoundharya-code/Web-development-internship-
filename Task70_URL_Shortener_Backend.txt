@@ -1,0 +1,13 @@
+Task: Create URL Shortener Backend
+
+Objective:
+Develop a backend service for shortening URLs.
+
+Description:
+Built a backend system that converts long URLs into short and shareable links.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned URL shortening algorithms and backend development.
