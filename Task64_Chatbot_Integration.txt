@@ -1,0 +1,13 @@
+Task: Create Chatbot Integration
+
+Objective:
+Integrate a chatbot into the application.
+
+Description:
+Added chatbot functionality to improve user interaction and support.
+
+Technologies Used:
+Python
+
+Outcome:
+Learned chatbot integration concepts.
