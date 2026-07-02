@@ -1,0 +1,13 @@
+Task: User Settings Module
+
+Objective:
+Develop a settings page for users.
+
+Description:
+Implemented user settings including password change, notification preferences, and account options.
+
+Technologies Used:
+Python, HTML, CSS
+
+Outcome:
+Learned settings management and user customization.
