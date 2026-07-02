@@ -1,0 +1,13 @@
+Task: Application Deployment
+
+Objective:
+Deploy the application to a hosting platform.
+
+Description:
+Prepared the application for deployment and configured the hosting environment.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned application deployment and hosting concepts.
