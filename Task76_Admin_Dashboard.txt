@@ -1,0 +1,13 @@
+Task: Admin Dashboard
+
+Objective:
+Create an administrator dashboard.
+
+Description:
+Designed an admin panel to manage users, reports, and application data efficiently.
+
+Technologies Used:
+Python, HTML, CSS
+
+Outcome:
+Learned dashboard development and administrative controls.
