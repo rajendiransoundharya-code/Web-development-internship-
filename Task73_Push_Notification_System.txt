@@ -1,0 +1,13 @@
+Task: Create Push Notification System
+
+Objective:
+Implement push notifications for users.
+
+Description:
+Developed a system to send real-time push notifications for application events.
+
+Technologies Used:
+Python, Firebase
+
+Outcome:
+Learned push notification implementation.
