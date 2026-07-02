@@ -1,0 +1,13 @@
+Task: Admin Panel Management
+
+Objective:
+Manage application data through an admin panel.
+
+Description:
+Implemented features for administrators to monitor users, edit records, and manage system resources.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned admin panel development and data management.
