@@ -1,0 +1,13 @@
+Task: User Profile Management
+
+Objective:
+Develop user profile management functionality.
+
+Description:
+Created features to view, update, and manage user profile information.
+
+Technologies Used:
+Python, Flask
+
+Outcome:
+Learned user profile management and CRUD operations.
