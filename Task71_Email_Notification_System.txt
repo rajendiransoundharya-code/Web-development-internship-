@@ -1,0 +1,13 @@
+Task: Develop Email Notification System
+
+Objective:
+Implement an email notification system for users.
+
+Description:
+Created a system to send email notifications for account registration, password reset, and important updates.
+
+Technologies Used:
+Python, SMTP
+
+Outcome:
+Learned email automation and notification management.
