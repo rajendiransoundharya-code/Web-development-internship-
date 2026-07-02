@@ -1,0 +1,13 @@
+Task: Docker Containerization
+
+Objective:
+Containerize the application using Docker.
+
+Description:
+Created Docker configuration files to package the application for easy deployment.
+
+Technologies Used:
+Docker
+
+Outcome:
+Learned containerization and application packaging.
