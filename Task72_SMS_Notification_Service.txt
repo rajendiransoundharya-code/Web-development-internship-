@@ -1,0 +1,13 @@
+Task: Implement SMS Notification Service
+
+Objective:
+Send SMS notifications to users.
+
+Description:
+Integrated an SMS service to deliver verification codes and important alerts.
+
+Technologies Used:
+Python, SMS API
+
+Outcome:
+Learned SMS gateway integration and notification services.
