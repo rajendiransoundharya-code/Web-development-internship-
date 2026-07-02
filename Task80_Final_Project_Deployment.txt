@@ -1,0 +1,13 @@
+Task: Final Project Deployment
+
+Objective:
+Deploy the completed full-stack project.
+
+Description:
+Successfully deployed the final project after testing all features and ensuring proper functionality.
+
+Technologies Used:
+Python, Flask, Docker
+
+Outcome:
+Learned complete project deployment and production release process.
